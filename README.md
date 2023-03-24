@@ -12,6 +12,8 @@ Projeto construído durante o curso de HTML e CSS com o professor Jamilton Damas
 - CSS
 - Git e Github
 
+[🔗 Clique aqui para acessar](https://luanlafayete.github.io/ProjetoChaleHotel/)
+
 ## ☎ Contato
 - LinkedIn: 
 https://www.linkedin.com/in/lu%C3%A3-lafayete-salgado-42467a42/
